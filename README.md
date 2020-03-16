@@ -27,8 +27,7 @@ Au menu : compter le nombre de paramètres d'un CNN par Christophe ([et là auss
 
 * Stationnarité et test de Dickey-Fuller augmenté :
 [ici](https://towardsdatascience.com/stationarity-in-time-series-analysis-90c94f27322)
-et [là](Augmented Dickey-Fuller Test
-https://machinelearningmastery.com/time-series-data-stationary-python/)
+et [là](https://machinelearningmastery.com/time-series-data-stationary-python/)
 
 * Désaisonnalisation : [ici](https://machinelearningmastery.com/time-series-seasonality-with-python/)
 
@@ -66,8 +65,7 @@ https://machinelearningmastery.com/time-series-data-stationary-python/)
 
 * Librairie statsmodels [ici](https://www.statsmodels.org/stable/index.html)
 
-* Méthodes de prédictions classiques : [ici](Standard time series methods
-https://machinelearningmastery.com/simple-time-series-forecasting-models/) et [là](https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/) et [là](https://www.kaggle.com/thebrownviking20/everything-you-can-do-with-a-time-series)
+* Méthodes de prédictions classiques : [ici](https://machinelearningmastery.com/simple-time-series-forecasting-models/) et [là](https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/) et [là](https://www.kaggle.com/thebrownviking20/everything-you-can-do-with-a-time-series)
 
 * ACF/PACF : [ici](https://machinelearningmastery.com/gentle-introduction-autocorrelation-partial-autocorrelation/) et [là](https://towardsdatascience.com/significance-of-acf-and-pacf-plots-in-time-series-analysis-2fa11a5d10a8)
 
