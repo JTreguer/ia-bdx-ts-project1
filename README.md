@@ -33,6 +33,8 @@ et [là](https://machinelearningmastery.com/time-series-data-stationary-python/)
 
 * Désaisonnalisation : [ici](https://machinelearningmastery.com/time-series-seasonality-with-python/)
 
+* FFT : [ici](https://www.ritchievink.com/blog/2017/04/23/understanding-the-fourier-transform-by-example/)
+
 * Un bon notebook Kaggle utilisant la librairie statsmodel : [ici](https://www.kaggle.com/harryren/boston-arima-forecast-and-analysis)
 
 * Un cours complet sur les séries temporelles avec des exemples en python : [ici](https://www.tutorialspoint.com/time_series/index.htm)
