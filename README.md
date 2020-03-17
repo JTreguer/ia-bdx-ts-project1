@@ -2,7 +2,7 @@
 
 ## Restitution de veille
 
-Au menu : compter le nombre de paramètres d'un CNN par Christophe ([et là aussi](https://www.learnopencv.com/number-of-parameters-and-tensor-sizes-in-convolutional-neural-network/))
+Au menu : compter le nombre de paramètres d'un CNN par Christophe ([et là aussi](https://www.learnopencv.com/number-of-parameters-and-tensor-sizes-in-convolutional-neural-network/)) [ou là](https://datascience.stackexchange.com/questions/55402/how-many-parameters-in-a-conv2d-layer)
 
 ## Qu'est-ce qu'une série temporelle ?
 
