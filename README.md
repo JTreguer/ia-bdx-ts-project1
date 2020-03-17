@@ -30,6 +30,7 @@ et [là](https://anomaly.io/seasonal-trend-decomposition-in-r/index.html) et [ic
 [ici](https://fr.wikipedia.org/wiki/Stationnarit%C3%A9_d%27une_s%C3%A9rie_temporelle)
 [ici](https://towardsdatascience.com/stationarity-in-time-series-analysis-90c94f27322)
 et [là](https://machinelearningmastery.com/time-series-data-stationary-python/)
+et [ici](https://nwfsc-timeseries.github.io/atsa-labs/sec-boxjenkins-aug-dickey-fuller.html)
 
 * Désaisonnalisation : [ici](https://machinelearningmastery.com/time-series-seasonality-with-python/)
 
