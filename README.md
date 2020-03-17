@@ -24,7 +24,7 @@ Au menu : compter le nombre de paramètres d'un CNN par Christophe ([et là auss
 
 * Décomposition d'une série temporelle :
 [ici](https://machinelearningmastery.com/decompose-time-series-data-trend-seasonality/)
-et [là](https://anomaly.io/seasonal-trend-decomposition-in-r/index.html)
+et [là](https://anomaly.io/seasonal-trend-decomposition-in-r/index.html) et [ici](https://machinelearningmastery.com/time-series-trends-in-python/)
 
 * Stationnarité et test de Dickey-Fuller augmenté :
 [ici](https://towardsdatascience.com/stationarity-in-time-series-analysis-90c94f27322)
