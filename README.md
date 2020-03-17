@@ -79,6 +79,8 @@ et [là](https://machinelearningmastery.com/time-series-data-stationary-python/)
 
 * Des modèles plus exotiques : ARCH, GARCH [voir](https://en.wikipedia.org/wiki/Autoregressive_conditional_heteroskedasticity)
 
+* Un exemple d'analyse de série temporelle : [ici](https://towardsdatascience.com/almost-everything-you-need-to-know-about-time-series-860241bdc578)
+
 * Vidéo d'ouverture sur d'autres méthodes, l'exemple d'Uber : [ici](https://youtu.be/VYpAodcdFfA)
 
 * Un livre entier sur les méthodes de prédiction : [ici](https://otexts.com/fpp2/)
